@@ -1,0 +1,18 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    
+}
+
+body {
+    
+    font-family: 'Oswald'; font-size: 22px;
+}
+
+nav {
+    background: linear-gradient(to bottom, green, rgb(41, 133, 41) );
+
+}
+
+
+
+
