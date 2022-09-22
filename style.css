@@ -76,7 +76,7 @@ html, body {
 @media (max-width:600px) {
     .toggle-button {
         display: flex;
-        margin-top: 10px;
+        margin-top: 12px;
         
         
     }
